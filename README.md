@@ -1,6 +1,6 @@
 # 💸 Project: Splitr - Smart Group Expense Splitter
 
-Splitr is a full-stack web application designed to simplify shared expense management in various settings such as trips, shared accommodations, and team activities. The system enables users to record expenses, split them equally or by custom shares, and track who owes whom — all with ease and efficiency.
+Splitr is a full-stack web application designed to simplify shared expense management in various settings such as trips, shared accommodations, and team activities. The system enables users to record expenses, split them equally or by custom shares, and track who owes whom all with ease and efficiency.
 
 ---
 
